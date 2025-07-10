@@ -49,7 +49,7 @@ local Window = Rayfield:CreateWindow({
 
       Subtitle = "Key System",
 
-      Note = "Key is SUBSCRIBE-Blo", -- Use this to tell the user how to get a key
+      Note = "Bloxender", -- Use this to tell the user how to get a key
 
       FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
 
